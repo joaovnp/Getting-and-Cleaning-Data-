@@ -9,8 +9,11 @@ Each person performed six activities wearing a smartphone on the waist.
 factor with 6 levels: "laying", "sitting", "standing", "walking", "walking downstairs", "walking upstairs"
 
 **The following variables represent the mean values of each one of the features (columns) listed in the data set.** 
+
 **Using the smartphone accelerometer (Acc) and gyroscope (Gyro), we captured 3-axial linear acceleration and 3-axial angular velocity.** 
+
 ** The features were pre-processed (noise filters, sampled in fixed-width sliding windows of 2.56 sec and 50% overlap [128 readings/window])** 
+
 **Features units are normalized and bounded whithin [-1,1].**
 
 * $ tBodyAcc.mean...X
