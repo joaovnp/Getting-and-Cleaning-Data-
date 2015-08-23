@@ -12,7 +12,7 @@ factor with 6 levels: "laying", "sitting", "standing", "walking", "walking downs
 
 **Using the smartphone accelerometer (Acc) and gyroscope (Gyro), we captured 3-axial linear acceleration and 3-axial angular velocity.** 
 
-** The features were pre-processed (noise filters, sampled in fixed-width sliding windows of 2.56 sec and 50% overlap [128 readings/window])** 
+**The features were pre-processed (noise filters, sampled in fixed-width sliding windows of 2.56 sec and 50% overlap [128 readings/window])** 
 
 **Features units are normalized and bounded whithin [-1,1].**
 
